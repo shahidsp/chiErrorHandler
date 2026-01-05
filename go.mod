@@ -1,4 +1,4 @@
-module chiErrorHandler
+module github.com/shahidsp/chiErrorHandler
 
 go 1.25
 
